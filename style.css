@@ -13,6 +13,7 @@ header{
 .social_icon img{
 	float:right;
 	padding-left:7px;
+	margin-right:10px;
 }
 .mymenu{
 	
@@ -28,7 +29,7 @@ header{
 }
 .Mynav_design li a:after{
 	content:"/";
-	padding-left:10px !important;
+	padding-left:9px !important;
 }
 .header_content h6{
 	padding-top:180px;
